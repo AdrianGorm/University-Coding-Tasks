@@ -2,7 +2,7 @@ class Main {
   public static void main(String[] args) {
     int p, q, r, s, t;
     
-    p = 5;
+    p = 7;
     q = -4;
     r = (3 * p) + (4 * q);
     s = (5 * p) + (6 * r);
